@@ -11,7 +11,7 @@ A) Mac
 pip3 install halmos
 ```
 2. Add exectable to PATH
-3. Run the command `nano ~/.zshrc`
+3. Run `nano ~/.zshrc`
 4. Add the following line at the end of the file.
 `export PATH="$PATH:/Users/username/Library/Python/3.9/bin"`
 Note: Replace the username with the appropriate username on your PC.
