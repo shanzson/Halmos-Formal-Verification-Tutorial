@@ -58,5 +58,9 @@ Note: Replace the username with the appropriate username on your PC.
 - Like fuzz tests, any input combinations that don't satisfy the assume() conditions are disregarded. 
 - Won't work with compiler versions less than 0.8.0. A custom assertion is needed in case you want it to work.
 
+## Halmos videos
+- [Formal Verification Speedrun](https://www.youtube.com/watch?v=pjwYr97Q-Ok&t=14s)
+- [Formal Verification with Halmos | 0xkarmacoma](https://www.youtube.com/watch?v=my53_cSJixI)
+
 
 
