@@ -6,7 +6,6 @@
 
 ## Installation
 A) Mac
-1. 
 ```
 pip3 install halmos
 ```
@@ -29,7 +28,7 @@ Note: Replace the username with the appropriate username on your PC.
 - Function signature hash of burnFrom(address,uint256)
 
 
-## Running on [Halmos Sandbox](https://github.com/karmacoma-eth/halmos-sandbox
+## Running on [Halmos Sandbox](https://github.com/karmacoma-eth/halmos-sandbox)
 1) File: 2_powerOfTwo.t.sol (Underflow bug)
 - `halmos --function test_isPowerOfTwo_fast_buggy --loop 256`
 - `halmos --function test_isPowerOfTwo_fast_ok`
