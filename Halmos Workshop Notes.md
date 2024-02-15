@@ -6,6 +6,7 @@
 
 ## Installation
 A) Mac
+1. Run the following command:
 ```
 pip3 install halmos
 ```
