@@ -61,6 +61,6 @@ Note: Replace the username with the appropriate username on your PC.
 ## Halmos videos
 - [Formal Verification Speedrun](https://www.youtube.com/watch?v=pjwYr97Q-Ok&t=14s)
 - [Formal Verification with Halmos | 0xkarmacoma](https://www.youtube.com/watch?v=my53_cSJixI)
-
+- [Formal Verification Panel at Defi Security Summit 2023](https://www.youtube.com/watch?v=vdMEGBllxLs&t=332s)
 
 
