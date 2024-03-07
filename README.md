@@ -43,7 +43,7 @@ Note: Replace the username with the appropriate username on your PC.
 - `halmos --function test_anycallLowLevelExplicit`
 4) File: 13_callToSymbolicAddress.t.sol (sending ether)
 - `halmos --function test_callToSymbolicAddress`
-- `halmos 00function test_prankCallToSymbolicAddress`
+- `halmos --function test_prankCallToSymbolicAddress`
 5) File: 18_emptyCounterExample.t.sol (assert false)
 - `halmos --function test_emptyCounterExample`
 6) File: 29_twoStepOwnershipTransfer.t.sol (function selector)
